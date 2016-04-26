@@ -1,0 +1,10 @@
+[25-Apr-2016 09:58:06 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/tskluzac/public_html/wp-includes/class-wp-xmlrpc-server.php on line 580
+[25-Apr-2016 10:15:32 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/tskluzac/public_html/wp-includes/class-wp-xmlrpc-server.php on line 580
+[25-Apr-2016 10:27:23 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/tskluzac/public_html/wp-includes/class-wp-xmlrpc-server.php on line 580
+[25-Apr-2016 10:43:04 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/tskluzac/public_html/wp-includes/class-wp-xmlrpc-server.php on line 580
+[25-Apr-2016 10:58:15 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/tskluzac/public_html/wp-includes/class-wp-xmlrpc-server.php on line 580
+[25-Apr-2016 11:15:45 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/tskluzac/public_html/wp-includes/class-wp-xmlrpc-server.php on line 580
+[25-Apr-2016 11:28:31 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/tskluzac/public_html/wp-includes/class-wp-xmlrpc-server.php on line 580
+[25-Apr-2016 11:42:45 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/tskluzac/public_html/wp-includes/class-wp-xmlrpc-server.php on line 580
+[25-Apr-2016 11:59:10 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/tskluzac/public_html/wp-includes/class-wp-xmlrpc-server.php on line 580
+[25-Apr-2016 12:14:01 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/tskluzac/public_html/wp-includes/class-wp-xmlrpc-server.php on line 580

@@ -1,0 +1,34 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.jumbotron-topic{padding-top:30px;padding-bottom:0px;margin-bottom:30px;color:inherit;
+    background-image: url("food3.jpg");
+    background-repeat: no-repeat;
+    background-position: top left;}
+.jumbotron-topic .h1,.jumbotron-topic h1{color:inherit}
+.jumbotron-topic p{margin-bottom:15px;font-size:21px;font-weight:200}
+.jumbotron-topic>hr{border-top-color:#d5d5d5}
+.container .jumbotron-topic,.container-fluid .jumbotron-topic{padding-right:15px;padding-left:15px;border-radius:6px}
+.jumbotron-topic .container{max-width:100%}
+@media screen and (min-width:768px)
+{.jumbotron-topic{padding-top:30px;padding-bottom:0px}.container .jumbotron-topic,.container-fluid .jumbotron-topic{padding-right:60px;padding-left:60px}.jumbotron-topic .h1,.jumbotron-topic h1{font-size:55px;padding-bottom: 30px}}
+
+.row {
+  margin-bottom: 10px;
+}
+.row .row {
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+[class*="col-"] {
+    padding-left: 6px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  background-color: #eee;
+  background-color: rgba(86,61,124,.15);
+  border: 1px solid #ddd;
+  border: 1px solid rgba(86,61,124,.2);
+}
