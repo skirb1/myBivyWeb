@@ -1,2 +1,2 @@
-# Climb
-webpages for climber training & nutrition
+# myBivy
+webpage for the myBivy project
